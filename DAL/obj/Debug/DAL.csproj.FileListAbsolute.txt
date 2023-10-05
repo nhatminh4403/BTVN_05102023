@@ -1,0 +1,12 @@
+E:\C#\BTVN_05102023\DAL\bin\Debug\DAL.dll.config
+E:\C#\BTVN_05102023\DAL\bin\Debug\DAL.dll
+E:\C#\BTVN_05102023\DAL\bin\Debug\DAL.pdb
+E:\C#\BTVN_05102023\DAL\bin\Debug\EntityFramework.dll
+E:\C#\BTVN_05102023\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\BTVN_05102023\DAL\bin\Debug\EntityFramework.xml
+E:\C#\BTVN_05102023\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\BTVN_05102023\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\C#\BTVN_05102023\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\C#\BTVN_05102023\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\C#\BTVN_05102023\DAL\obj\Debug\DAL.dll
+E:\C#\BTVN_05102023\DAL\obj\Debug\DAL.pdb
